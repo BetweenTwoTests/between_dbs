@@ -1,0 +1,2 @@
+id,tinytext,mediumtext,longtext,text
+1,tinytext charlen limit is 255,mediumtext charlen limit is 16777215,longtext charlen limit is 4294967295,text charlen limit is 65535
