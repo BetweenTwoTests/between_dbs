@@ -26,8 +26,7 @@ CREATE TABLE test.types_text (
 	`text` text NULL -- 65535 char  max
 )
 ENGINE=InnoDB
-DEFAULT CHARSET=latin1
-COLLATE=latin1_swedish_ci;
+DEFAULT CHARSET=latin1;
 
 CREATE TABLE test.types_date (
 	id int not null primary key,
